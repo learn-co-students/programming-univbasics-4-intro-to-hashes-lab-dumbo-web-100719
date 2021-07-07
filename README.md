@@ -1,4 +1,4 @@
-# Intro to Hashes Lab
+learn --fail-fast# Intro to Hashes Lab
 
 ## Learning Goals
 
